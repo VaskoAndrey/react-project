@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+
+$accent: #B53471;
+$white: #F1E8E8;
+$hard-dark-accent: darken($accent, 30%);
+$dark-accent: darken($accent, 15%);
+$black: darken($accent, 38%);
+$purple: #511734;
+$gradient: #F1E8E8;
+
+$bx-accent: 0 4px 4px rgba($accent, 0.25);
+$bx-16: 0 3px 6px rgba(0, 0,  0, 0.16);
+
+$default-font: 'Sofia Sans', sans-serif;
+
+$mobile: 480px;
